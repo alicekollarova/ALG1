@@ -9,6 +9,7 @@ package cv01;
  * @author kolla
  */
 public class Swap {
+
     public static void main(String[] args) {
         int a = 34;
         int b = 89;
